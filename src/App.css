@@ -1,0 +1,91 @@
+.main{
+  text-align: center !important;
+  justify-content: center;
+  display: flex;
+  padding: 90px 0px 90px 0 !important;
+  background-color: rgb(252, 252, 252);
+}
+.sub-mail{
+  display: flex;
+  justify-content: center !important;
+  height: 550px;
+  width: 35%;
+  box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+  padding-top: 50px !important;
+  border-radius: 60px;
+  background-color: white !important;
+
+}
+.imgs{
+  padding-top: 20px !important;
+  justify-content: center !important;
+  display: flex !important;
+
+}
+.container-image{
+  background-color: rgb(223, 221, 221);
+  border-radius: 150px !important;
+  align-items: center !important;
+  display: flex !important;
+  height: 115px !important;
+  width: 115px !important;
+}
+.profile{
+  height: 130px !important;
+  width: 150px;
+  border-radius: 130px !important;
+}
+input{
+  width: 250px;
+  height: 50px !important;
+  align-items: center !important;
+  border-radius: 60px !important;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  border: none !important;
+  outline: none !important;
+  background-color: #fff !important;
+}
+.mail{
+  height: 25px !important;
+  width: 25px;
+  position: absolute;
+  padding: 14px 0 0 25px !important;
+
+}
+.lock{
+  height: 25px !important;
+  width: 25px;
+  position: absolute;
+  padding: 14px 0 0 25px !important;
+
+}
+.name{
+  padding-left: 70px !important;
+  font-size: 20px !important;
+
+}
+.second-input{
+  padding-top: 20px !important;
+
+}
+button{
+  width: 150px;
+  height: 50px !important;
+  border-radius: 60px !important;
+  background-color: #7EC8E3 !important;
+  color: black;
+  font-size: 25px;
+  border: none;
+}
+.login-button{
+  padding-top: 25px !important;
+
+}
+.link{
+  font-size: 15px !important;
+  font-weight: 400;
+
+}
+a{
+  color: black !important;
+}
